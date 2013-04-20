@@ -40,11 +40,10 @@ style: |
 
 ## They Don't Have CPAN
 
-*quotes from blogs.perl.org, perlmonks*
-----------------------------
+**quotes from blogs.perl.org, perlmonks**
 
 1. "there ain’t no CPAN for Python" "..Ruby" "..JavaScript"
-2. "
+2. blah
 
 
 ## Critiquing the current state of CPAN
