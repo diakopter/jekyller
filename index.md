@@ -38,65 +38,62 @@ style: |
 <!-- photo by John Carey, fiftyfootshadows.net -->
 
 
-## Who Has a CPAN
+## Does size matter?
 
-1. "there ain’t no CPAN for Python" "..Ruby" "..JavaScript"
-2. 
+- sheer magnitude
+- growth rate
+- ...Yes, it matters because of what it represents:
+    1. ...mindshare/userbase
+    2. ...inertia
+    3. ...which feed into each other, naturally
 
 
-## Critiquing CPAN
+## Who Has a "CPAN"?
 
-* The Four Major Problems with CPAN - blogs.perl.org Mar 8, 2013 : ETOOBIG "100 thousand modules," ECRUFTY "unmaintained; abandoned," ENOBLESS "mature...the 'right ones' to use," ENOTFORME "semi-private needs," EINFLEXIBLE "DEAD SINCE 2004"
-* d
+* Typical: "there ain’t no CPAN for Python" "..Ruby" "..JavaScript" - blogs.perl.org - Jan 2012
+* ...But why mention those languages?
+* ...Why not Java and the innumerable other JVM language ports/implementations that have access to all the same libraries?
+* ...Why not the Microsoft languages and the umpteen languages on .NET (CLR/mono)?
 
-## Plain Text on Your Slides
 
-Lorem ipsum dolor sit amet, consectetur [adipisicing](#all-kind-of-lists) elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, *quis nostrud* exercitation ullamco laboris **nisi ut aliquip** ex ea commodo consequat. Duis aute irure <i>dolor</i> in reprehenderit in voluptate velit esse cillum <b>dolore</b> eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in `<culpa>` qui officia deserunt mollit anim id est laborum.
+## Not just size matters
 
-## All Kind of Lists
+- Language Archive Matchup Game
 
-1. Simple lists are marked with bullets
-2. Ordered lists begin with a number
-3. You can even nest lists one inside another
-    - Or mix their types
-    - But do not go too far
-    - Otherwise audience will be bored
-4. Look, seven rows exactly!
 
-## Serious Citations
+## Observations:
 
-<figure markdown="1">
+1. ...Junk level on RubyGems and PyPi is extremely high
+2. ...Hackage tends toward precise "known" algorithm and standardized protocal implementation, emphasizes co-composability - "one or two best [only] ways to do everything"
+3. ...node's npm tends toward language and orientation/paradigm tweaking - DSLs and JS dialects as well as paradigm-importing combinators and shortcuts
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.
 
-<figcaption>Marcus Tullius Cicero</figcaption>
-</figure>
+## Observations:
 
-## Code Samples
+4. ...Maven STRONGLY tends toward enterprise software and interopability plugins
+5. ...NuGet tends toward library bindings and components/plugins of existing componentized/pluggable software systems
+6. ...Packagist is currently too small and growing too slowly to matter.  ...(Can you make abstractions and design for modularity in PHP?)
+7. ...CPAN is a mix of all of the above.
 
-    <!DOCTYPE html>
-    <html lang="en">
-    <mark><head></mark> <mark class="comment"><!--Comment--></mark>
-        <title>Shower</title>
-        <meta charset="<mark class="important">UTF-8</mark>">
-        <link rel="stylesheet" href="screen.css">
-    <mark></head></mark>
+## Conclusion:
 
-## Pictures
-{:.cover #Picture}
+- ...Don't just say "Perl has CPAN, 'nuff said" - JS, Java, and .NET are bigger (and more importantly, growing far more quickly).
+- ...Qualify your love for CPAN by specifying the specific distinctives you appreciate
+    1. ...CPANTesters network and platform support matrix
+    2. ...(optional) integrated bug tracking and communication with author
 
-![](pictures/picture.jpg)
-<!-- photo by John Carey, fiftyfootshadows.net -->
+## Conclusion:
 
-## **You can even shout this way**
+- Qualify your love for CPAN by specifying the specific distinctives you appreciate
+    3. ...ability to take over namespaces of dead or just unmaintained stuff
+    4. ...awesome documentation a cultural standard
+    5. ...runs the integrated test suite upon install
 
-## Inner Navigation
+## Conclusions:
 
-1. Lets you reveal list items one by one
-2. …To keep some key points
-3. …In secret from audience
-4. …But it will work only once
-5. …Nobody wants to see the same joke twice
+- Qualify your love for CPAN by specifying the specific distinctives you appreciate
+    6. ...pretty good searching
+    7. ...very mature authentication, upload, and permission management system, with namespace claiming/approval
+    8. ...distribution ratings/reviews
 
-## ![](http://shwr.me/pictures/logo.svg) [See more on GitHub](https://github.com/shower/shower/)
-{:.shout #SeeMore}
+
