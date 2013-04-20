@@ -34,7 +34,9 @@ style: |
 
 # Who is this and what have you done with my CPAN {#Cover}
 
-*Brought you by [Vadim Makeev](http://pepelsbey.net/)*
+### Matthew Wilson  -  http://perl6.com/
+
+*Yes, this is the default cover photo for this slideshow template*
 
 ![](pictures/cover.jpg)
 <!-- photo by John Carey, fiftyfootshadows.net -->
