@@ -73,7 +73,7 @@ style: |
 
 ## Observations:
 
-4. ...Maven STRONGLY tends toward enterprise software and interopability plugins
+4. ...Maven's Central Repo STRONGLY tends toward enterprise software and interopability plugins
 5. ...NuGet tends toward library bindings and components/plugins of existing componentized/pluggable software systems
 6. ...Packagist is currently too small and growing too slowly to matter.  ...(Can you make abstractions and design for modularity in PHP?)
 7. ...CPAN is a mix of all of the above.
