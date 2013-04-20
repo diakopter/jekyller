@@ -42,7 +42,7 @@ style: |
 
 - sheer magnitude
 - growth rate
-- ...Yes, it matters because of what it represents:
+- ...Yes, it matters because of what it represents, which are important to measure when planning marketing and advocacy activities and policies
     1. ...mindshare/userbase
     2. ...inertia
     3. ...which feed into each other, naturally
@@ -50,7 +50,7 @@ style: |
 
 ## Who Has a "CPAN"?
 
-* Typical: "there ain’t no CPAN for Python" "..Ruby" "..JavaScript" - blogs.perl.org - Jan 2012
+* ...Typical: "there ain’t no CPAN for Python" "..Ruby" "..JavaScript" - blogs.perl.org - Jan 2012
 * ...But why mention those languages?
 * ...Why not Java and the innumerable other JVM language ports/implementations that have access to all the same libraries?
 * ...Why not the Microsoft languages and the umpteen languages on .NET (CLR/mono)?
@@ -60,11 +60,10 @@ style: |
 
 - Language Archive Matchup Game
 
-
 ## Observations:
 
 1. ...Junk level on RubyGems and PyPi is extremely high
-2. ...Hackage tends toward precise "known" algorithm and standardized protocal implementation, emphasizes co-composability - "one or two best [only] ways to do everything"
+2. ...Hackage tends toward precise "known" algorithms and standardized protocol implementation, emphasizes co-composability - "one or two best [only] ways to do everything"
 3. ...node's npm tends toward language and orientation/paradigm tweaking - DSLs and JS dialects as well as paradigm-importing combinators and shortcuts
 
 
@@ -75,14 +74,14 @@ style: |
 6. ...Packagist is currently too small and growing too slowly to matter.  ...(Can you make abstractions and design for modularity in PHP?)
 7. ...CPAN is a mix of all of the above.
 
-## Conclusion:
+## Conclusions:
 
 - ...Don't just say "Perl has CPAN, 'nuff said" - JS, Java, and .NET are bigger (and more importantly, growing far more quickly).
 - ...Qualify your love for CPAN by specifying the specific distinctives you appreciate
     1. ...CPANTesters network and platform support matrix
     2. ...(optional) integrated bug tracking and communication with author
 
-## Conclusion:
+## Conclusions:
 
 - Qualify your love for CPAN by specifying the specific distinctives you appreciate
     3. ...ability to take over namespaces of dead or just unmaintained stuff
