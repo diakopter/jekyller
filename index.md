@@ -81,7 +81,7 @@ style: |
 ## Conclusions:
 
 - ...When advocating Perl, don't emphasize the scope of problem spaces that CPAN covers
-    - ...npm and maven are far bigger
+    - ...npm and maven are far bigger (e.g. 309 mongodb vs 31)
     - ...(and more importantly, growing far more quickly)
 - ...Qualify your love for CPAN by specifying the specific distinctives you appreciate
     1. ...CPANTesters network and platform support matrix
