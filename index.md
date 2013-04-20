@@ -3,10 +3,7 @@
 layout: default
 
 style: |
-    
-    body {
-        font-size:24px;
-    }
+
     #Cover h2 {
         margin:65px 0 0;
         color:#FFF;
@@ -43,15 +40,19 @@ style: |
 
 ## Who Has a CPAN
 
-1. "there ain’t no CPAN for Python" "..Ruby" "..JavaScript" - blogs.perl.org
-2. blah
+1. "there ain’t no CPAN for Python" "..Ruby" "..JavaScript"
+2. 
 
 
 ## Critiquing the current state of CPAN
 
 1. The Four Major Problems with CPAN - Mar 8, 2013
-    * "A hundred thousand modules is too much stuff to sift through."
+    * ETOOBIG(TOFAIL?): "A hundred thousand modules is too much stuff to sift through."
     ("too many choices increases the cost of deciding, perhaps to infinity")
+    * ECRUFTY "Too many modules are unmaintained; abandoned but not marked as such."
+    * ENOBLESS "There is not enough data on what modules are mature; which ones are the 'right ones' to use."
+    * ENOISY "Many modules are only used for semi-private needs."
+    * d
 2. foo
 
 
