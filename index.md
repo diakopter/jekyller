@@ -44,13 +44,13 @@ style: |
 ## Who Has a CPAN
 
 1. "there ain’t no CPAN for Python" "..Ruby" "..JavaScript" - blogs.perl.org
-2. 
+2. blah
 
 
 ## Critiquing the current state of CPAN
 
 1. The Four Major Problems with CPAN - Mar 8, 2013
-    a. "A hundred thousand modules is too much stuff to sift through."
+    * "A hundred thousand modules is too much stuff to sift through."
     ("too many choices increases the cost of deciding, perhaps to infinity")
 2. foo
 
