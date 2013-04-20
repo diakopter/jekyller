@@ -80,7 +80,9 @@ style: |
 
 ## Conclusions:
 
-- ...Don't just say "Perl has CPAN, 'nuff said" - JS, Java, and .NET are bigger (and more importantly, growing far more quickly).
+- ...When advocating Perl, don't emphasize the scope of problem spaces that CPAN covers
+    - ...npm and maven are far bigger
+    - ...(and more importantly, growing far more quickly)
 - ...Qualify your love for CPAN by specifying the specific distinctives you appreciate
     1. ...CPANTesters network and platform support matrix
     2. ...(optional) integrated bug tracking and communication with author
