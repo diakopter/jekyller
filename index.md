@@ -58,7 +58,11 @@ style: |
 
 ## Not just size matters
 
-- Language Archive Matchup Game
+- Recency of releases.  (let's pick 3 years).  If a distribution has a release in the last three years, then probably at least one of these is true:
+    1. The problem space is recent
+    2. The maintainer is adding new features or keeping up with bug reports and bitrot
+    3. Not-Invented-Here duplication
+- ...Language Archive Matchup Game
 
 ## Observations:
 
