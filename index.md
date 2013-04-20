@@ -44,17 +44,10 @@ style: |
 2. 
 
 
-## Critiquing the current state of CPAN
+## Critiquing CPAN
 
-1. The Four Major Problems with CPAN - Mar 8, 2013
-    * ETOOBIG(TOFAIL?): "A hundred thousand modules is too much stuff to sift through."
-    ("too many choices increases the cost of deciding, perhaps to infinity")
-    * ECRUFTY "Too many modules are unmaintained; abandoned but not marked as such."
-    * ENOBLESS "There is not enough data on what modules are mature; which ones are the 'right ones' to use."
-    * ENOISY "Many modules are only used for semi-private needs."
-    * d
-2. foo
-
+* The Four Major Problems with CPAN - blogs.perl.org Mar 8, 2013 : ETOOBIG "100 thousand modules," ECRUFTY "unmaintained; abandoned," ENOBLESS "mature...the 'right ones' to use," ENOTFORME "semi-private needs," EINFLEXIBLE "DEAD SINCE 2004"
+* d
 
 ## Plain Text on Your Slides
 
