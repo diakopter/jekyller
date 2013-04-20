@@ -34,24 +34,25 @@ style: |
 
 # Who is this and what have you done with my CPAN {#Cover}
 
-*Matthew Wilson  -  perl6.com*
-
-*Yes, this is the default cover photo for this slideshow template*
-
 ![](pictures/cover.jpg)
 <!-- photo by John Carey, fiftyfootshadows.net -->
 
 
-## Shower Key Features
+## They Don't Have CPAN
 
-1. Built on HTML, CSS and vanilla JavaScript
-2. All modern browsers are supported
-3. Slide themes are separated from engine
-4. Fully keyboard accessible
-5. Printable to PDF
+*quotes from blogs.perl.org, perlmonks*
+----------------------------
 
-{:.note}
-Shower ['ʃəuə] noun. A person or thing that shows.
+1. "there ain’t no CPAN for Python" "..Ruby" "..JavaScript"
+2. "
+
+
+## Critiquing the current state of CPAN
+
+1. The Four Major Problems with CPAN - Mar 8, 2013
+    a. "A hundred thousand modules is too much stuff to sift through."
+    ("too many choices increases the cost of deciding, perhaps to infinity")
+2. foo
 
 
 ## Plain Text on Your Slides
