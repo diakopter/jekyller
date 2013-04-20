@@ -3,7 +3,10 @@
 layout: default
 
 style: |
-
+    
+    body {
+        font-size:24px;
+    }
     #Cover h2 {
         margin:65px 0 0;
         color:#FFF;
@@ -38,12 +41,10 @@ style: |
 <!-- photo by John Carey, fiftyfootshadows.net -->
 
 
-## They Don't Have CPAN
+## Who Has a CPAN
 
-**quotes from blogs.perl.org, perlmonks**
-
-1. "there ain’t no CPAN for Python" "..Ruby" "..JavaScript"
-2. blah
+1. "there ain’t no CPAN for Python" "..Ruby" "..JavaScript" - blogs.perl.org
+2. 
 
 
 ## Critiquing the current state of CPAN
