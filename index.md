@@ -32,7 +32,7 @@ style: |
         }
 ---
 
-# Shower Presentation Engine {#Cover}
+# Who is this and what have you done with my CPAN {#Cover}
 
 *Brought you by [Vadim Makeev](http://pepelsbey.net/)*
 
